@@ -1,9 +1,9 @@
 {
   "name": "SniffX",
   "version": "1.0.0",
-  "main": "api.js",
+  "main": "trcker.js",
   "scripts": {
-    "start": "node api.js"
+    "start": "node tracker.js"
   },
   "keywords": [],
   "author": "",
@@ -14,3 +14,4 @@
     "node-fetch": "^3.3.2"
   }
 }
+
